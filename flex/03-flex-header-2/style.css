@@ -21,23 +21,20 @@ body {
 .left {
   display: flex;
   align-items: center;
-  justify-content: center;
   gap:16px;
 }
 
 .right {
   display: flex;
   align-items:center;
-  justify-content: center;
   gap: 16px
 }
 
 .links {
   display: flex;
-  align-items: center;
-  justify-content: center;
   gap: 16px;
   padding: 0px;
+  margin: 0px;
 }
 
 .profile-image {
